@@ -12,7 +12,7 @@ jobs:
     strategy:
       matrix:
         build_env:
-          - tag: "22.03.4"
+          - tag: "22.03.5"
             pkgarch: mips_24kc
             target: ath79
             subtarget: nand
